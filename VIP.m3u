@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Willax Televisión" tvg-name="Willax Televisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Willax_Televisi%C3%B3n_logo_con_texto_blanco_y_sombra_2015.svg/revision/latest/scale-to-width-down/1200?cb=20221028023906&path-prefix=es" group-title="🇵🇪 Perú 🇵🇪",Willax Televisión | 1
-https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+chrome-extension://ekhbcipncbkfpkaianbjbcbmfehjflpf/m3u8.html?m3u8_url=https://dmxleo.dailymotion.com/cdn/manifest/video/(function(d){s=d.createElement(%27script%27);s.type=%27text/javascript%27;s.async=1;s.src=%27https://public-prod-dspcookiematching.dmxleo.com/dmx?target=https%3A%2F%2Fdmxleo.dailymotion.com/cdn/manifest/video/x7x4dgx.m3u8%3Fauth%3Dx%26cs%3Ddmx_[CSDATA]&eb=https%3A%2F%2Fgithub.com%2FLaQuay%2FTDTChannels%2Fblob%2Fmaster%2FTELEVISION.md%27;x=d.getElementsByTagName(%27script%27)[0];x.parentNode.insertBefore(s,x);})(document);
 
 #EXTINF:-1 tvg-id="Latina SD | 2 " tvg-name="Latina SD | 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="🇵🇪 Perú 🇵🇪",Latina SD | 2
 http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/340176
