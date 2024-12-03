@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Willax Televisión" tvg-name="Willax Televisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Willax_Televisi%C3%B3n_logo_con_texto_blanco_y_sombra_2015.svg/revision/latest/scale-to-width-down/1200?cb=20221028023906&path-prefix=es" group-title="🇵🇪 Perú 🇵🇪",Willax Televisión | 1
-http://tv.soccerplus.link:8000/Luigen/031794/93319
+https://live-c.cf.dmcdn.net/sec2(XU0N-2qDTgfE0oxR5uiwxdeT8JF0qfV8rBT0HR7AJTpyIhU_NWqaLNCvUeCla_hwYMWNCLOWicRdoq9PCl_XgYDIjBiS_suRNM-kEB5xF2i7_wPu4VB14mJ8vYJGlcQQ)/dm/3/x7x4dgx/s/live-480.m3u8#cell=lcfc
 
 #EXTINF:-1 tvg-id="Latina SD | 2 " tvg-name="Latina SD | 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="🇵🇪 Perú 🇵🇪",Latina SD | 2
 http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/340176
@@ -15,7 +15,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnecl/la-tele/playlist.m3u8
 http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/340182
 
 #EXTINF:-1 tvg-id="AmericaTV" tvg-name="AmericaTV" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2010-205_import.png" group-title="🇵🇪 Perú 🇵🇪",AmericaTV | 4
-http://190.0.241.181:8000/play/a03a/index.m3u8
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/d302a65b304245a1a63015260288df35/manifest/f624fec49dadc88894ebeff1d974eab019af7757/6099b04d9418ac082441dd74/2f56b59d-0dd3-4cce-82a6-179eb9149b30/0.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=ZpWBKku1WsAqgVk9DgEPPsc9wB2eVMFX&sid=tta4DWkPMp9dRFlPPkO6m1TzXc7kA8fw&pid=Y5Dfl6jXnI5gp8WX5KOkTaN2S00qsivp&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=xRI8a75cXaVE4aVDRgdJv2xFlDdP8RDsNIDTejA1QcC5bNjqRnJECacxZwA18jtbEOptN3soUZP&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1733329558404&ot=fazhzWd-W7U-k-Hv_tnxWA&proto=https&pz=us
 
 #EXTINF:-1 tvg-id="Panamericana TV SD | 5 " tvg-name="Panamericana TV SD | 5 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n_%282009%29.svg" group-title="🇵🇪 Perú 🇵🇪",Panamericana TV SD | 5
 http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/340211
