@@ -1,0 +1,270 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Latina SD | 2 " tvg-name="Latina SD | 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="🇵🇪 Perú 🇵🇪",Latina SD | 2
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/340176
+
+#EXTINF:-1 tvg-id="Latina" tvg-name="Latina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Latina_TV_2014.svg/revision/latest/scale-to-width-down/140?cb=20210524150237&path-prefix=es" group-title="🇵🇪 Perú 🇵🇪",Latina | 2
+https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b1311558985155666387a524f91&sid=ba5t1l1xb42051301737666387a6103a5&ndvc=0
+
+#EXTINF:-1 tvg-id="La Tele" tvg-name="La Tele" tvg-logo="https://www.ecured.cu/images/b/bf/La_Tele_%28Ecuador%29.png" group-title="🇵🇪 Perú 🇵🇪",La Tele | 3
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/la-tele/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV SD | 4" tvg-name="AmericaTV SD | 4" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2010-205_import.png" group-title="🇵🇪 Perú 🇵🇪",AmericaTV SD | 4
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/340182
+
+#EXTINF:-1 tvg-id="AmericaTV" tvg-name="AmericaTV" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2010-205_import.png" group-title="🇵🇪 Perú 🇵🇪",AmericaTV | 4
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/d302a65b304245a1a63015260288df35/manifest/f624fec49dadc88894ebeff1d974eab019af7757/6099b04d9418ac082441dd74/2f56b59d-0dd3-4cce-82a6-179eb9149b30/0.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=ZpWBKku1WsAqgVk9DgEPPsc9wB2eVMFX&sid=tta4DWkPMp9dRFlPPkO6m1TzXc7kA8fw&pid=Y5Dfl6jXnI5gp8WX5KOkTaN2S00qsivp&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=xRI8a75cXaVE4aVDRgdJv2xFlDdP8RDsNIDTejA1QcC5bNjqRnJECacxZwA18jtbEOptN3soUZP&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1733329558404&ot=fazhzWd-W7U-k-Hv_tnxWA&proto=https&pz=us
+
+#EXTINF:-1 tvg-id="Panamericana TV SD | 5 " tvg-name="Panamericana TV SD | 5 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n_%282009%29.svg" group-title="🇵🇪 Perú 🇵🇪",Panamericana TV SD | 5
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/340211
+
+#EXTINF:-1 tvg-id="PanamericanaTV" tvg-name="PanamericanaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n_%282009%29.svg" group-title="🇵🇪 Perú 🇵🇪",Panamericana TV | 5
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+
+#EXTINF:-1 tvg-id="Exitosa | 6" tvg-name="Exitosa | 6" tvg-logo="http://goldfull.pro:8880/images/09c619b963604f6731e4028dfa882ae6.png" group-title="🇵🇪 Perú 🇵🇪",Exitosa | 6
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/348356
+
+#EXTINF:-1 tvg-id="RT Noticia" tvg-name="RT Noticia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKSwMGSicRqFxrhJhbZ5m4-xIOozr1E615HQ&s" group-title="🇵🇪 Perú 🇵🇪",RT Noticia
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="TV Peru" tvg-name="TV Peru" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="🇵🇪 Perú 🇵🇪",TV Peru | 7
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+
+#EXTINF:-1 tvg-id="TVPeru Internacional" tvg-name="TVPeru Internacional" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_INTERNACIONAL_PLAY.png" group-title="🇵🇪 Perú 🇵🇪",TVPeru Internacional  | 7.1
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+
+#EXTINF:-1 tvg-id="TV Peru Noticias" tvg-name="TV Peru Noticias" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png" group-title="🇵🇪 Perú 🇵🇪",TV Peru Noticias | 7.2
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+
+#EXTINF:-1 tvg-id="Congreso TV" tvg-name="Congreso TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Congreso_TV_2015.png/revision/latest?cb=20201211211904&path-prefix=es" group-title="🇵🇪 Perú 🇵🇪",Congreso TV | 7.3
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/canaldelcongreso.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal N" tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Canal_N_2006-2017_%28con_l%C3%ADnea%29.png" group-title="🇵🇪 Perú 🇵🇪",Canal N
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/340199
+
+#EXTINF:-1 tvg-id="Peruanísima" tvg-name="Peruanísima" tvg-logo="https://peruanisima.site/wp-content/uploads/2024/03/LogoMo.png" group-title="🇵🇪 Perú 🇵🇪",Peruanísima | 8
+https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist_w1935074754.m3u8
+
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="🇵🇪 Perú 🇵🇪",ATV | 9
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="ATV +" tvg-name="ATV +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="🇵🇪 Perú 🇵🇪",ATV + | 9.1
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="ATV Sur" tvg-name="ATV Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="🇵🇪 Perú 🇵🇪",ATV Sur | 9.2
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="Viva TV" tvg-name="Viva TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Viva_TV_2018_1.svg/revision/latest?cb=20210601032348&path-prefix=es" group-title="🇵🇪 Perú 🇵🇪",Viva TV | 11
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/vivaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USMP TVV" tvg-name="USMP TV" tvg-logo="https://pbs.twimg.com/profile_images/974407742487220224/V8VZVd-p_400x400.jpg" group-title="🇵🇪 Perú 🇵🇪",USMP TV | 12
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/USMP/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GlobalTV" tvg-name="GlobalTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/GlobalTV_%28Indonesia%29.svg/1024px-GlobalTV_%28Indonesia%29.svg.png" group-title="🇵🇪 Perú 🇵🇪",GlobalTV  | 13
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/Global/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LigaMAX" tvg-name="LigaMAX" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_03/large.Liga1Max-Peru.png.587de14c43956b8c3fb47b4aab4fb792.png" group-title="🇵🇪 Perú 🇵🇪",LigaMAX  | 14
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/286827
+
+#EXTINF:-1 tvg-id="" tvg-name="PE | LIGA 1 MAX SD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_03/large.Liga1Max-Peru.png.587de14c43956b8c3fb47b4aab4fb792.png" group-title="🇵🇪 Perú 🇵🇪",Liga MAX SD
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/252156
+
+#EXTINF:-1 tvg-id="LigaMAX" tvg-name="LigaMAX" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_03/large.Liga1Max-Peru.png.587de14c43956b8c3fb47b4aab4fb792.png" group-title="🇵🇪 Perú 🇵🇪",LigaMAX Alt SD | 14.2
+http://tv.soccerplus.link:8000/Luigen/031794/92406
+
+#EXTINF:-1 tvg-id="Liga 1" tvg-name="Liga 1" tvg-logo="https://www.dekazeta.net/foro/uploads/monthly_2022_10/Liga1Peru256x.thumb.png.3a84eafb37936dfdcae7b707d48d66ff.png.2a44147161ab8d57c54c560e68f7b874.png" group-title="🇵🇪 Perú 🇵🇪",Liga 1 | 14.2
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/346686
+
+
+#EXTINF:-1 tvg-id="Liga 1 Alternativa" tvg-name="Liga 1 Alternativa" tvg-logo="https://www.dekazeta.net/foro/uploads/monthly_2022_10/Liga1Peru256x.thumb.png.3a84eafb37936dfdcae7b707d48d66ff.png.2a44147161ab8d57c54c560e68f7b874.png" group-title="🇵🇪 Perú 🇵🇪",Liga 1 Alternativa | 14.2
+http://tvbross.com:8090/comandoalmache/almache2022../140577
+
+#EXTINF:-1 tvg-id="Movistar Plus" tvg-name="Movistar Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="🇵🇪 Perú 🇵🇪",Movistar Plus
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/37963
+
+#EXTINF:-1 tvg-id="Gol Peru SD" tvg-name="Gol Peru SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="🇵🇪 Perú 🇵🇪",Gol Peru SD
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/386270
+
+#EXTINF:-1 tvg-id="Gol Peru HD  | 15 " tvg-name="Gol Peru HD  | 15 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="🇵🇪 Perú 🇵🇪",Gol Peru HD  | 15
+http://alfatv.lat:2082/diego270903/diego270903/234942
+
+#EXTINF:-1 tvg-id="Gol Peru HD Alternativa" tvg-name="Gol Peru HD Alternativa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="🇵🇪 Perú 🇵🇪",Gol Peru HD Alternativa
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/386269
+
+
+#EXTINF:-1 tvg-id="Movistar Deportes SD" tvg-name="Movistar Deportes SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="🇵🇪 Perú 🇵🇪",Movistar Deportes SD
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/166614
+
+#EXTINF:-1 tvg-id="Movistar Deportes HD" tvg-name="Movistar Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="🇵🇪 Perú 🇵🇪",Movistar Deportes HD
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/346199
+
+
+#EXTINF:-1 tvg-id="Contacto Deportivo" tvg-name="Contacto Deportivo" tvg-logo="https://i.ytimg.com/vi/F3Le7tyF7IQ/mqdefault.jpg" group-title="🇵🇪 Perú 🇵🇪",Contacto Deportivo
+https://live.obslivestream.com/cdeportivo/index.m3u8
+
+#EXTINF:-1 tvg-id="Ovacion" tvg-name="Ovacion" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Ovacion_logo.jpg/revision/latest?cb=20210406165628&path-prefix=es" group-title="🇵🇪 Perú 🇵🇪",Ovacion 🇵🇪
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Nacional Tv Peru" tvg-name="Nacional Tv Peru" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/nacional_0.jpg" group-title="🇵🇪 Perú 🇵🇪",Nacional Tv Peru
+https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
+
+#EXTINF:-1 tvg-id="Planeta TV San Martin" tvg-name="Planeta TV San Martin" tvg-logo="http://goldfull.pro:8880/images/e77b64045061ccbf1acdfa6c08ed61ec.png" group-title="🇵🇪 Perú 🇵🇪",Planeta TV San Martin
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/346688
+
+#EXTINF:-1 tvg-id="Doble CTV JUNIN" tvg-name="Doble CTV JUNIN" tvg-logo="http://goldfull.pro:8880/images/485a05b086a13fa8b861a66a3aa95e2f.jpeg" group-title="🇵🇪 Perú 🇵🇪",Doble CTV JUNIN
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/346689
+
+#EXTINF:-1 tvg-id="Master Television Amazonia" tvg-name="Master Television Amazonia" tvg-logo="http://goldfull.pro:8880/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="🇵🇪 Perú 🇵🇪",Master Television Amazonia
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/346690
+
+#EXTINF:-1 tvg-id="Telecolor Amazonia" tvg-name="Telecolor Amazonia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpYzOIrwsmgQQaXl3OqirUhwiXViUCyVB4Cg&usqp=CAU" group-title="🇵🇪 Perú 🇵🇪",Telecolor Amazonia
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/346691
+
+#EXTINF:-1 tvg-id="Via Television Tarapoto" tvg-name="Via Television Tarapoto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs9l8F3Fd0igJA6jSky10Cl6EGEwje6uVJkIKPrnrfywIXjl-SABVCM2d2JnVxhhJKx6s&usqp=CAU" group-title="🇵🇪 Perú 🇵🇪",Via Television Tarapoto
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/346692
+
+#EXTINF:-1 tvg-id="TV en Linea Cuzco" tvg-name="TV en Linea Cuzco" tvg-logo="http://goldfull.pro:8880/images/7453bd6cd4f5a75c166ec1ff0e1fe168.jpg" group-title="🇵🇪 Perú 🇵🇪",TV en Linea Cuzco
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/346693
+
+#EXTINF:-1 tvg-id="Ovasion TV" tvg-name="Ovasion TV" tvg-logo="https://ovacion.pe/sites/default/files/logo-blanco.svg" group-title="🇵🇪 Perú 🇵🇪",Ovasion TV 
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/348345
+
+#EXTINF:-1 tvg-id="Autentica TV" tvg-name="Autentica TV" tvg-logo="http://goldfull.pro:8880/images/38cb4087c6158144b8147718c3d6a30a.png" group-title="🇵🇪 Perú 🇵🇪",Autentica TV
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/348350
+
+#EXTINF:-1 tvg-id="BHTV" tvg-name="BHTV" tvg-logo="http://goldfull.pro:8880/images/78e353ad0a2f47696a03e22d61481732.png" group-title="🇵🇪 Perú 🇵🇪",BHTV
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/348351
+
+#EXTINF:-1 tvg-id="Catacaos TV Piura" tvg-name="Catacaos TV Piura" tvg-logo="http://goldfull.pro:8880/images/89b60996b798a2e8b8386349bd6bddda.png" group-title="🇵🇪 Perú 🇵🇪",Catacaos TV Piura
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/348352
+
+#EXTINF:-1 tvg-id="CRTV Moyobamba" tvg-name="CRTV Moyobamba" tvg-logo="http://goldfull.pro:8880/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="🇵🇪 Perú 🇵🇪",CRTV Moyobamba
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/348353
+
+#EXTINF:-1 tvg-id="Doble CC TV" tvg-name="Doble CC TV" tvg-logo="http://goldfull.pro:8880/images/485a05b086a13fa8b861a66a3aa95e2f.jpeg" group-title="🇵🇪 Perú 🇵🇪",Doble CC TV
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/348355
+
+
+#EXTINF:-1 tvg-id="KARIBEÑA RADIO TV" tvg-name="KARIBEÑA RADIO TV" tvg-logo="http://goldfull.pro:8880/images/9d81178182c3e4ada09293a3d6902d5a.png" group-title="🇵🇪 Perú 🇵🇪",Karibeña Radio TV
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/340177
+
+#EXTINF:-1 tvg-id="KARIBEÑA RADIO TV OP2" tvg-name="KARIBEÑA RADIO TV OP2" tvg-logo="http://goldfull.pro:8880/images/9d81178182c3e4ada09293a3d6902d5a.png" group-title="🇵🇪 Perú 🇵🇪",Karibeña Radio TV OP2
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/340178
+
+#EXTINF:-1 tvg-id="MEGA TV" tvg-name="MEGA TV" tvg-logo="http://goldfull.pro:8880/images/fab6643931cd73f38d9fe5cefa4b6897.png" group-title="🇵🇪 Perú 🇵🇪",Mega TV
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/340203
+
+#EXTINF:-1 tvg-id="NATIVA HD" tvg-name="NATIVA HD" tvg-logo="http://goldfull.pro:8880/images/ac17a3884aa0f06484c02c0a8b96b211.png" group-title="🇵🇪 Perú 🇵🇪",Nativa HD
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/340204
+
+#EXTINF:-1 tvg-id="Antares TV" tvg-name="Antares TV" tvg-logo="http://goldfull.pro:8880/images/ddef5c8d2021a6ccfaa9c5e5e9296a92.png" group-title="🇵🇪 Perú 🇵🇪",Antares TV
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/340205
+
+
+#EXTINF:-1 tvg-id="CANAL IPE" tvg-name="CANAL IPE" tvg-logo="http://goldfull.pro:8880/images/a8b8556aedb765bfe69ab47a694c0622.png" group-title="🇵🇪 Perú 🇵🇪",Canal IPE
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/340208
+
+#EXTINF:-1 tvg-id="CULTURA TV" tvg-name="CULTURA TV" tvg-logo="http://goldfull.pro:8880/images/9c2d8b50733ba0a65d747febb8f53259.png" group-title="🇵🇪 Perú 🇵🇪",Cultura TV
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/340209
+
+#EXTINF:-1 tvg-id="MEGA CINE FHD" tvg-name="MEGA CINE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFEQT8_8uBkIxnh-zpiedXR8-GQauLz483X7Ch1CfPocdl2SNR1TUss7Q&s=10" group-title="🇵🇪 Perú 🇵🇪",Mega Cine FHD
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/340210
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ESPN_logos.png/640px-ESPN_logos.png" group-title="ESPN ⚽ FOX",ESPN HD
+http://181.78.78.219:8010/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="ESPN ⚽ FOX",ESPN 2 HD
+http://181.78.78.219:8010/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD" tvg-logo="https://tv-guide.vercel.app/_next/image?url=https%3A%2F%2Fadma.tmsimg.com%2Fassets%2Fs73833_ll_h15_aa.png%3Fw%3D360%26h%3D270%3Fw%3D100&w=128&q=75" group-title="ESPN ⚽ FOX",ESPN 3 HD
+http://181.78.78.219:8010/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 HD" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="ESPN ⚽ FOX",ESPN 4 HD
+http://181.78.78.219:8010/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 5 HD" tvg-name="ESPN 5 HD" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="ESPN ⚽ FOX",ESPN 5 HD
+http://38.56.118.88:4000/play/a07r/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 6 HD" tvg-name="ESPN 6 HD" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="ESPN ⚽ FOX",ESPN 6 HD
+http://190.0.241.181:8000/play/a02f/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 7 HD" tvg-name="ESPN 7 HD" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="ESPN ⚽ FOX",ESPN 7 HD
+http://181.78.64.71:16123/play/ch20
+
+#EXTINF:-1 tvg-id="FOX SPORTS 1 PERU" tvg-name="FOX SPORTS 1 PERU1" tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-680BBDFB50-seeklogo.com.png" group-title="ESPN ⚽ FOX",FOX SPORTS 1 PERU
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/341805
+
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/foxsportsmx/logos/3p-logo._CB636858411_.png" group-title="ESPN ⚽ FOX",FOX SPORTS PREMIUM PERU
+http://goldfull.pro:8880/zoundor/bkDk6SdHNLQH/342033
+
+#EXTINF:-1 tvg-id="FOX SPORTS  1 (México)" tvg-name="FOX SPORTS  1 (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2560px-Fox_Sports_1_logo.svg.png" group-title="ESPN ⚽ FOX",FOX SPORTS  1 (México)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/36396
+
+EXTINF:-1 tvg-id="FOX SPORTS  2 (México)" tvg-name="FOX SPORTS  2 (México)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8863_7_11394.png.01eb7ac116a869fa969791db91ec8480.png" group-title="ESPN ⚽ FOX",FOX SPORTS  2 (México)
+http://tilinki.com:25461/caqo5939/2g7xS/24
+
+#EXTINF:-1 tvg-id="FOX SPORTS  3 (México)" tvg-name="FOX SPORTS  3 (México)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8863_7_25047.png.cc9888f37225fe43aea16d0418694953.png" group-title="ESPN ⚽ FOX",FOX SPORTS  3 (México)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/9538
+
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUN (México)" tvg-name="FOX SPORTS PREMIUN (México))" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="ESPN ⚽ FOX",FOX SPORTS PREMIUN (México)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
+
+#EXTINF:-1 tvg-id="FOX SPORTS 1 (Argentina)" tvg-name="FOX SPORTS 1 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2560px-Fox_Sports_1_logo.svg.png" group-title="ESPN ⚽ FOX",FOX SPORTS 1 (Argentina)
+http://maiolve.club:8080/GalaxyQQQ6987/fR4W3NQ35DSs/2090080
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2 (Argentina)" tvg-name="FOX SPORTS 2 (Argentina)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8863_7_11394.png.01eb7ac116a869fa969791db91ec8480.png" group-title="ESPN ⚽ FOX",FOX SPORTS 2 (Argentina)
+http://lobo-tv.live:8080/rhin0xCPwow/yXtqbNNtmzaqU/10957
+
+#EXTINF:-1 tvg-id="FOX SPORTS 3 (Argentina)" tvg-name="FOX SPORTS 3 (Argentina)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8863_7_25047.png.cc9888f37225fe43aea16d0418694953.png" group-title="ESPN ⚽ FOX",FOX SPORTS 3 (Argentina)
+http://tv.soccerplus.link:8000/andresmiranda/DTp1CZJ98f/34589
+
+
+
+
+
+#EXTINF:-1 tvg-id="ESPN Alternativa" tvg-name="ESPN Alternativa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ESPN_logos.png/640px-ESPN_logos.png" group-title="ESPN Alternativa ⚽",ESPN - ALT
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Alternativa" tvg-name="ESPN Alternativa" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="ESPN Alternativa ⚽",ESPN 2 - ALT
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Alternativa" tvg-name="ESPN Alternativa" tvg-logo="https://tv-guide.vercel.app/_next/image?url=https%3A%2F%2Fadma.tmsimg.com%2Fassets%2Fs73833_ll_h15_aa.png%3Fw%3D360%26h%3D270%3Fw%3D100&w=128&q=75" group-title="ESPN Alternativa ⚽",ESPN 3 - ALT
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Alternativa" tvg-name="ESPN Alternativa" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="ESPN Alternativa ⚽",ESPN 4 - ALT
+http://181.78.64.71:16123/play/ch90
+#EXTINF:-1 tvg-id="ESPN Alternativa" tvg-name="ESPN Alternativa" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="ESPN Alternativa ⚽",ESPN 5 - ALT
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN Alternativa" tvg-name="ESPN Alternativa" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="ESPN Alternativa ⚽",ESPN 6 - ALT
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn6/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN Alternativa" tvg-name="ESPN Alternativa" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="ESPN Alternativa ⚽",ESPN 7 - ALT
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="ESPN 1" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN Alternativa ⚽",ESPN  - ALT 2
+http://181.78.64.71:16123/play/ch16
+
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://logodix.com/logo/313776.png" group-title="ESPN Alternativa ⚽",ESPN 2  - ALT 2
+http://181.78.64.71:16123/play/ch17
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://tv-guide.vercel.app/_next/image?url=https%3A%2F%2Fadma.tmsimg.com%2Fassets%2Fs73833_ll_h15_aa.png%3Fw%3D360%26h%3D270%3Fw%3D100&w=128&q=75" group-title="ESPN Alternativa ⚽",ESPN 3  - ALT 2
+http://181.78.64.71:16123/play/ch18
+
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="ESPN Alternativa ⚽",ESPN 5  - ALT 2
+http://181.78.64.71:16123/play/ch19
+
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="ESPN Alternativa ⚽",ESPN 6  - ALT 2
+http://181.78.64.71:16123/play/ch21
+
+#EXTINF:-1 tvg-id="ESPN 7" tvg-name="ESPN 7" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="ESPN Alternativa ⚽",ESPN 7  - ALT 2
+http://181.78.64.71:16123/play/ch20
