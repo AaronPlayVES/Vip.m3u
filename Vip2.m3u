@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-id="Latina SD | 2 " tvg-name="Latina SD | 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="🇵🇪 Perú 🇵🇪",Latina SD | 2
 https://pecdl.pricesaskeloadsc.com/golperu/index.m3u8?token=460d7adf69af6304119e9a5894e42977f681f5b6-48-1741573761-1741541361
 
+#EXTINF:-1 tvg-id="Latina SD | 2 " tvg-name="Latina SD | 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="🇵🇪 Perú 🇵🇪",Latina SD | 2
+https://pecdl.pricesaskeloadsc.com/golperu/tracks-v1a1/mono.m3u8?token=460d7adf69af6304119e9a5894e42977f681f5b6-48-1741573761-1741541361
+
+#EXTINF:-1 tvg-id="Latina SD | 2 " tvg-name="Latina SD | 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="🇵🇪 Perú 🇵🇪",Latina SD | 2
+https://960462173.cdnmistreat.net:8443/hls/0qfk0.m3u8?s=ilG6mLzrAFHZTzDKHuFLCg&e=1741571945
+
 #EXTINF:-1 tvg-id="Latina" tvg-name="Latina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Latina_TV_2014.svg/revision/latest/scale-to-width-down/140?cb=20210524150237&path-prefix=es" group-title="🇵🇪 Perú 🇵🇪",Latina | 2
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b1311558985155666387a524f91&sid=ba5t1l1xb42051301737666387a6103a5&ndvc=0
 
